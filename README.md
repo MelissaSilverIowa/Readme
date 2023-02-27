@@ -6,3 +6,4 @@ Reading notes live here
 ** *remain open
    *remain willing
    *remain coachable **
+[Class 1](class-01.md)
