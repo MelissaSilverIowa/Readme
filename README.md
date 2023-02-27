@@ -8,3 +8,5 @@ Reading notes live here
    *remain coachable **
 -[Class 1](class-01.md)
 -[Octocat](https://myoctocat.com/assets/images/base-octocat.svg)
+**Introduction
+*My name is Melissa. I live in Iowa City. 
