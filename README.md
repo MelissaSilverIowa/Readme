@@ -6,5 +6,5 @@ Reading notes live here
 ** *remain open
    *remain willing
    *remain coachable **
-[Class 1](class-01.md)
-[Octocat](https://myoctocat.com/assets/images/base-octocat.svg)
+-[Class 1](class-01.md)
+-[Octocat](https://myoctocat.com/assets/images/base-octocat.svg)
